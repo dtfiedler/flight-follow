@@ -3,6 +3,7 @@
     <img src="./demo.gif" height=450/>
 </div>
 
+
 Experimental iOS app that uses Computer Vision techniques to track the path of a golf ball
 
 # Project Report
