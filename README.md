@@ -1,10 +1,9 @@
 # FlightFollow for iOS
+Experimental iOS app that uses Computer Vision techniques to track the path of a golf ball
+
 <div align="center">
     <img src="./demo.gif" height=450/>
 </div>
-
-
-Experimental iOS app that uses Computer Vision techniques to track the path of a golf ball
 
 # Project Report
 You can view the final project report and pipeline details [here](./report.pdf).
